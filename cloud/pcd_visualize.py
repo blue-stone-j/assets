@@ -54,5 +54,5 @@ def colorize_point_cloud_by_z(file_path):
     app.run()
 
 # 指定 PCD 文件的路径
-file_path = 'standing_water1.pcd'
+file_path = 'flat.pcd'
 colorize_point_cloud_by_z(file_path)
