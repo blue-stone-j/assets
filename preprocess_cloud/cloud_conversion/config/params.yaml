@@ -1,0 +1,12 @@
+# bag
+topic_pcd: "/lidar_points"
+bag_name: "/media/user/2023-04-13-10-39-35.bag"
+pcd_dest: "/home/user/bag/pcd/"
+bin_dest: "/home/user/bag/bin/"
+
+# bin<->pcd
+pcd_path: "/home/user/bag/pcd/"
+bin_path: "/home/user/bag/bin/"
+
+# visualize
+pcd: "/home/user/bag/pcd/1681353575882.pcd"
